@@ -1,1 +1,4 @@
 # DOCS
+- [ ] Quang
+- [ ] Cuong
+- [ ] Phong
